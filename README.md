@@ -48,8 +48,8 @@ A production-ready RAG (Retrieval-Augmented Generation) system for chatting with
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/your-org/docmind.git
-cd docmind
+git clone https://github.com/SethSaDev/AI-Powered-Document-and-Knowledge-Base-Chat.git
+cd AI-Powered-Document-and-Knowledge-Base-Chat
 cp .env.example .env
 # Edit .env with your OpenAI API key, Stripe keys, etc.
 ```
